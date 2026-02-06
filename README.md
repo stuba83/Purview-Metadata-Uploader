@@ -4,7 +4,7 @@ Automatiza la actualización de metadatos de activos de Microsoft Purview desde 
 
 ## 🎯 Propósito
 
-Esta solución permite mantener sincronizados los metadatos de gobernanza de datos (descripciones, propietarios, sensibilidad, etc.) entre tu lakehouse en Fabric y el catálogo de Purview, facilitando la gestión centralizada de metadatos a escala.
+Esta solución permite mantener sincronizados los metadatos de gobernanza de datos (descripciones, propietarios, sensibilidad, etc.) almacenados en tu lakehouse de Fabric y el catálogo de Purview, facilitando la gestión centralizada de metadatos a escala.
 
 ## 🏗️ Arquitectura
 
