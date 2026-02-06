@@ -1,0 +1,19 @@
+{
+  "purview": {
+    "account_name": "YOUR_PURVIEW_ACCOUNT_NAME",
+    "endpoint": "https://YOUR_PURVIEW_ACCOUNT_NAME.purview.azure.com"
+  },
+  "service_principal": {
+    "tenant_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+    "client_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+    "client_secret": "YOUR_CLIENT_SECRET_HERE"
+  },
+  "metadata": {
+    "business_metadata_name": "DataGovernance",
+    "default_owner_email": "admin@yourcompany.com"
+  },
+  "lakehouse": {
+    "tables_metadata_table": "tablas_metadata",
+    "columns_metadata_table": "campos_metadata"
+  }
+}
